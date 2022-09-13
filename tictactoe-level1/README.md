@@ -1,1 +1,2 @@
-#Tic Tac Toe Game-Code Challenge level 1
+#  Tic Tac Toe 
+Play with a friend or machine
